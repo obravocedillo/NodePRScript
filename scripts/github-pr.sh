@@ -1,5 +1,5 @@
 #!/bin/bash
-printf "Creating new pull request from current branch"
+printf "Creating new pull request from current branch\n"
 printf "Enter the title of the new pull request\n"
 read title
 printf "Enter the description of the new pull request\n"
